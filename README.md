@@ -1,9 +1,25 @@
-# 30 Days GANs Paper Reading
-Follow me on linkedIn: https://www.linkedin.com/in/susan-gautam/
+# 30 Days Computer Vision Paper Reading
+<h3>Follow me on :</h3>  
 
-I intend to go through the basic GAN paper, learning the fundamental principles, and then go on to some of the more recent gans and related concepts. I plan to provide annotation document as well as a synopsis of each article I read and scratch implementation of each paper (if possible). 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susan-gautam/)
 
-Your thoughts and comments are really valuable, making this challenge a terrific resource for everyone. I'll be putting everything on this github repo. 
+
+On January 1, 2022, I started this challenge. I intend to go through the computer vision and basic GAN papers first, learning the fundamental principles, and then go on to some of the more recent gans and related concepts. I plan to provide an annotation document as well as a synopsis of each article I read and scratch implementation of each paper (if possible).
+
+## What will you do during the challenge?
+Each day I will go through popular computer vision papers, mostly with GANs. I will add:
+1. Annotated Paper with a quick summary
+2. Scratch implementation with PyTorch or Tensorflow (if possible). I'll do my best to make it as straightforward and understandable as possible. It's important to note that some of the paper implementation may take a few days.
+3. Some papers go into great detail on  the [![Medium](https://badges.aleen42.com/src/medium.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://susant.medium.com/). If I can manage my time,
+4. (Future Plan) Short Video-Paper Walkthrough & Implementation [![Medium](https://badges.aleen42.com/src/youtube.svg)]()
+
+
+## Where you Post?
+* I'm making a post on [LinkedIn](https://www.linkedin.com/in/susan-gautam/) with some important information each day. 
+* Annotated Paper : [Annoted Research Papers GitHub Repo](https://github.com/sushant097/annotated_research_papers/blob/master)
+* Scratch Implementation: [Deep learning Paper Scratch Implementation](https://github.com/sushant097/Deep-Learning-Paper-Scratch-Implementation/tree/master/)
+
+I hope my learning journey will be helpful for anyone who is a interested in knowing computer vision concepts or reading research paper . Your thoughts and comments are really valuable, making this repo a fantastic resource for everyone. I'll be putting everything on this github repo.
 
 
 | Days | Paper Name | Annotated Paper Link| Post Link | Code(Others)
@@ -13,8 +29,9 @@ Your thoughts and comments are really valuable, making this challenge a terrific
 |3    | Neural Style Transfer | [Neural Style Transfer Paper Annotated](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/NeuralStyleTransfer-2015.pdf) -- [Scratch Implementation-PyTorch](https://github.com/sushant097/Neural-Style-Transfer-Implementation) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_neural-style-transfer-summary-activity-6883708917336154112-ytnM) -- [Detail On Medium Post](https://susant.medium.com/basic-intuition-on-neural-style-transfer-idea-c5ac179d1530) |  Not Yet |
 |4    | Info GAN | [INFO GAN Paper Annotated](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/InfoGAN-2016.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_github-computervision-deeplearning-activity-6884073364915396608-UAch) |  [TensorFlow(Outdated)](https://github.com/openai/InfoGAN) [PyTorch](https://github.com/Natsu6767/InfoGAN-PyTorch)|
 |5    | AC-GAN | [AC-GAN Paper Annotated](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/ACGAN-2016.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_ac-gan-summary-activity-6884423970368704512-yWlj) |  [Implementations](https://paperswithcode.com/paper/conditional-image-synthesis-with-auxiliary) |
-|6    | PGGAN | [PGGAN Paper Annotated](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/PGGAN-2017.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_progressive-gan-research-paper-summary-activity-6884817109763928064-0GqO) |  [Tensorflow2](https://github.com/tkarras/progressive_growing_of_gans) |
-|7    | PGGAN | [PGGAN Paper Implementation](https://github.com/sushant097/Deep-Learning-Paper-Scratch-Implementation/tree/master/GANs/ProGAN) & [HOW ProGAN WOKS - Medium Post](https://susant.medium.com/how-progan-woks-20c7069d2a56) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_how-progan-woks-activity-6885236633663348737-VdMQ) |  [PyTorch](https://github.com/sushant097/Deep-Learning-Paper-Scratch-Implementation/tree/master/GANs/ProGAN) |
+|6    | ProGAN | [ProGAN Paper Annotated](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/PGGAN-2017.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_progressive-gan-research-paper-summary-activity-6884817109763928064-0GqO) |  [Tensorflow2](https://github.com/tkarras/progressive_growing_of_gans) |
+|7    | ProGAN | [ProGAN Paper Implementation](https://github.com/sushant097/Deep-Learning-Paper-Scratch-Implementation/tree/master/GANs/ProGAN) & [HOW ProGAN WOKS - Medium Post](https://susant.medium.com/how-progan-woks-20c7069d2a56) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_how-progan-woks-activity-6885236633663348737-VdMQ) |  [PyTorch](https://github.com/sushant097/Deep-Learning-Paper-Scratch-Implementation/tree/master/GANs/ProGAN) |
+|8    | SRGAN | - | - | - |
 
 Thanks for Reading🎉🎉🎉
 
