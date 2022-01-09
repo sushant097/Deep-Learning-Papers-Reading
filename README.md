@@ -32,6 +32,7 @@ I hope my learning journey will be helpful for anyone who is a interested in kno
 |6    | ProGAN | [ProGAN Paper Annotated](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/PGGAN-2017.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_progressive-gan-research-paper-summary-activity-6884817109763928064-0GqO) |  [Tensorflow2](https://github.com/tkarras/progressive_growing_of_gans) |
 |7    | ProGAN | [ProGAN Paper Implementation](https://github.com/sushant097/Deep-Learning-Paper-Scratch-Implementation/tree/master/GANs/ProGAN) & [HOW ProGAN WOKS - Medium Post](https://susant.medium.com/how-progan-woks-20c7069d2a56) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_how-progan-woks-activity-6885236633663348737-VdMQ) |  [PyTorch](https://github.com/sushant097/Deep-Learning-Paper-Scratch-Implementation/tree/master/GANs/ProGAN) |
 |8    | SRGAN | [SRGAN Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/SRGAN-2017.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_photo-realistic-single-image-super-resolution-activity-6885539780248137728-6ma7) | [PyTorch - Official](https://github.com/leftthomas/SRGAN) |
+|9    | StyleGAN | [StyleGAN Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/StyleGAN-2018.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_stylegan-paper-summary-activity-6885966982915739648-S-mg) | [Tensorflow - Official](https://github.com/NVlabs/stylegan) |
 
 Thanks for Reading🎉🎉🎉
 
