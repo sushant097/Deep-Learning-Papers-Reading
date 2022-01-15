@@ -37,7 +37,8 @@ I hope my learning journey will be helpful for anyone who is a interested in kno
 |11    | BigGAN | [BigGAN Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/BigGAN-2018.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_biggan-paper-summary-activity-6886645530248802304-J-0F) | [PyTorch](https://github.com/ajbrock/BigGAN-PyTorch) |
 |12    | TextToImage GAN | [TextToImage GAN Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/TextToImageGAN-2016.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_texttoimage-gan-summary-activity-6887043904319975424-1mxr) | [PyTorch](https://github.com/aelnouby/Text-to-Image-Synthesis) |
 |13    | StackGAN | [StackGAN Blog Post](https://susant.medium.com/a-simple-explanation-of-stackgan-af1ebf310d0f) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_a-simple-and-intuitive-explanation-of-stackgan-activity-6887436210621554688-3Xat) | [PyTorch Official Implementation](https://github.com/hanzhanggit/StackGAN) |
-
+|14    | SinGAN | [SinGAN Blog Post](https://susant.medium.com/hidden-secret-behind-singan-that-won-the-iccv-2019-best-paper-award-2a4a7607a539) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_hidden-secret-behind-singan-that-won-the-activity-6887786507533381633-qJ_X) | [PyTorch Official Implementation](https://github.com/tamarott/SinGAN) |
+|15    | BiGAN | [BiGAN Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/BiGAN-2017.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_bigan-paper-summary-activity-6888100102385364992-0Ani) | [Official Implementation](https://github.com/jeffdonahue/bigan) |
 
 Thanks for Reading🎉🎉🎉
 
