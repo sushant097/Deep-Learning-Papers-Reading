@@ -39,6 +39,7 @@ I hope my learning journey will be helpful for anyone who is a interested in kno
 |13    | StackGAN | [StackGAN Blog Post](https://susant.medium.com/a-simple-explanation-of-stackgan-af1ebf310d0f) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_a-simple-and-intuitive-explanation-of-stackgan-activity-6887436210621554688-3Xat) | [PyTorch Official Implementation](https://github.com/hanzhanggit/StackGAN) |
 |14    | SinGAN | [SinGAN Blog Post](https://susant.medium.com/hidden-secret-behind-singan-that-won-the-iccv-2019-best-paper-award-2a4a7607a539) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_hidden-secret-behind-singan-that-won-the-activity-6887786507533381633-qJ_X) | [PyTorch Official Implementation](https://github.com/tamarott/SinGAN) |
 |15    | BiGAN | [BiGAN Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/BiGAN-2017.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_bigan-paper-summary-activity-6888100102385364992-0Ani) | [Official Implementation](https://github.com/jeffdonahue/bigan) |
+|16    | Face Completion GAN (CVPR 2017) | [Face Completion GAN Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/GenerativeFaceCompletion-2017.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_summary-of-generative-face-completion-gan-activity-6888459784941641728-Lymj) | -- |
 
 Thanks for Reading🎉🎉🎉
 
