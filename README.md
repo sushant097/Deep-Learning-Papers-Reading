@@ -1,7 +1,4 @@
 # 30 Days Computer Vision Paper Reading
-<h3>Follow me on :</h3>  
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susan-gautam/)
 
 
 On January 1, 2022, I started this challenge. I intend to go through the computer vision and basic GAN papers first, learning the fundamental principles, and then go on to some of the more recent gans and related concepts. I plan to provide an annotation document as well as a synopsis of each article I read and scratch implementation of each paper (if possible).
@@ -20,6 +17,10 @@ Each day I will go through popular computer vision papers, mostly with GANs. I w
 * Scratch Implementation: [Deep learning Paper Scratch Implementation](https://github.com/sushant097/Deep-Learning-Paper-Scratch-Implementation/tree/master/)
 
 I hope my learning journey will be helpful for anyone who is a interested in knowing computer vision concepts or reading research paper . Your thoughts and comments are really valuable, making this repo a fantastic resource for everyone. I'll be putting everything on this github repo.
+
+<h3>Follow me on :</h3>  
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susan-gautam/)
 
 
 | Days | Paper Name | Annotated Paper Link| Post Link | Code(Others)
@@ -40,6 +41,8 @@ I hope my learning journey will be helpful for anyone who is a interested in kno
 |14    | SinGAN | [SinGAN Blog Post](https://susant.medium.com/hidden-secret-behind-singan-that-won-the-iccv-2019-best-paper-award-2a4a7607a539) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_hidden-secret-behind-singan-that-won-the-activity-6887786507533381633-qJ_X) | [PyTorch Official Implementation](https://github.com/tamarott/SinGAN) |
 |15    | BiGAN | [BiGAN Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/BiGAN-2017.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_bigan-paper-summary-activity-6888100102385364992-0Ani) | [Official Implementation](https://github.com/jeffdonahue/bigan) |
 |16    | Face Completion GAN (CVPR 2017) | [Face Completion GAN Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/GenerativeFaceCompletion-2017.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_summary-of-generative-face-completion-gan-activity-6888459784941641728-Lymj) | -- |
+|17   | 3D-GAN (NIPS 2016) | [3D-GAN Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/3DGAN-2016.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_3d-gan-one-page-summary-activity-6888849471942344704-mtj3) | [PyTorch Implementation](https://github.com/black0017/3D-GAN-pytorch)|
+
 
 Thanks for Reading🎉🎉🎉
 
