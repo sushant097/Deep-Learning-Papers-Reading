@@ -12,7 +12,7 @@ Each day I will go through popular computer vision papers, mostly with GANs. I w
 
 
 ## Where you Post?
-* I'm making a post on [LinkedIn](https://www.linkedin.com/in/susan-gautam/) with some important information each day. 
+* I'm making a post on [LinkedIn](https://www.linkedin.com/in/susan-gautam/) with short summary on paper each day. You may remain up to date by following me.
 * Annotated Paper : [Annoted Research Papers GitHub Repo](https://github.com/sushant097/annotated_research_papers/)
 * Scratch Implementation: [Deep learning Paper Scratch Implementation](https://github.com/sushant097/Deep-Learning-Paper-Scratch-Implementation/tree/master/)
 
@@ -22,6 +22,9 @@ I hope my learning journey will be helpful for anyone who is a interested in kno
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susan-gautam/)
 
+Your love and support are much welcomed in order to make this even more beneficial to everybody. 
+
+Comments, suggestions, and corrections are welcome. 
 
 | Days | Paper Name | Annotated Paper Link| Post Link | Code(Others)
 | :------------ |:---------------------:| :----------------:| --------: | -------:|
