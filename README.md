@@ -13,7 +13,7 @@ Each day I will go through popular computer vision papers, mostly with GANs. I w
 
 ## Where you Post?
 * I'm making a post on [LinkedIn](https://www.linkedin.com/in/susan-gautam/) with some important information each day. 
-* Annotated Paper : [Annoted Research Papers GitHub Repo](https://github.com/sushant097/annotated_research_papers/blob/master)
+* Annotated Paper : [Annoted Research Papers GitHub Repo](https://github.com/sushant097/annotated_research_papers/)
 * Scratch Implementation: [Deep learning Paper Scratch Implementation](https://github.com/sushant097/Deep-Learning-Paper-Scratch-Implementation/tree/master/)
 
 I hope my learning journey will be helpful for anyone who is a interested in knowing computer vision concepts or reading research paper . Your thoughts and comments are really valuable, making this repo a fantastic resource for everyone. I'll be putting everything on this github repo.
