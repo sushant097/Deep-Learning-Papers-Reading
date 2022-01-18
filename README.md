@@ -1,13 +1,14 @@
 # 30 Days Computer Vision Paper Reading
 
 
-On January 1, 2022, I started this challenge. I intend to go through the computer vision and basic GAN papers first, learning the fundamental principles, and then go on to some of the more recent gans and related concepts. I plan to provide an annotation document as well as a synopsis of each article I read and scratch implementation of each paper (if possible).
+On January 1, 2022, I started this challenge. I intend to go through the computer vision and basic GAN papers first, learning the fundamental principles, and then go on to some of the more recent gans and related concepts. I plan to provide an annotation document as well as a synopsis of each article I read and scratch implementation of each paper (if possible). 
+
 
 ## What will you do during the challenge?
 Each day I will go through popular computer vision papers, mostly with GANs. I will add:
 1. Annotated Paper with a quick summary
 2. Scratch implementation with PyTorch or Tensorflow (if possible). I'll do my best to make it as straightforward and understandable as possible. It's important to note that some of the paper implementation may take a few days.
-3. Some papers go into great detail on  the [![Medium](https://badges.aleen42.com/src/medium.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://susant.medium.com/). If I can manage my time,
+3. Some papers go into great detail on  the [![Medium](https://badges.aleen42.com/src/medium.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://susant.medium.com/). If I can manage my time. You may follow me there to make sure you don't miss a new post.
 4. (Future Plan) Short Video-Paper Walkthrough & Implementation [![Medium](https://badges.aleen42.com/src/youtube.svg)]()
 
 
@@ -16,7 +17,20 @@ Each day I will go through popular computer vision papers, mostly with GANs. I w
 * Annotated Paper : [Annoted Research Papers GitHub Repo](https://github.com/sushant097/annotated_research_papers/)
 * Scratch Implementation: [Deep learning Paper Scratch Implementation](https://github.com/sushant097/Deep-Learning-Paper-Scratch-Implementation/tree/master/)
 
-I hope my learning journey will be helpful for anyone who is a interested in knowing computer vision concepts or reading research paper . Your thoughts and comments are really valuable, making this repo a fantastic resource for everyone. I'll be putting everything on this github repo.
+
+## Do you already have a list of papers to read?
+* No, I don't. I simply look for one that interests me and read it the same day. If you come across other intriguing paper, you can suggest it to me.
+
+
+**Note:** "Interesting" indicates it should not be a previously read work (see list below) and must have an unique idea. Citations, the conference at which it is given, and, most crucially, the new contribution it makes may all be used to weed out papers. Sorry, but that's how I narrowed down the papers to read. 
+
+<hr>
+
+<!-- 
+## Can I contribute to this list?
+* Yes, of course. Kindly email me **[Sushant Gautam][ sushantgautm@gmail.com ]** or send a pull request at [Annoted Research Papers GitHub Repo](https://github.com/sushant097/annotated_research_papers/) for annotated paper and [Deep learning Paper Scratch Implementation](https://github.com/sushant097/Deep-Learning-Paper-Scratch-Implementation/tree/master/) for scratch Implementation of paper. -->
+
+I hope my learning journey will be helpful for anyone who is a interested in knowing computer vision concepts or reading research paper. Your thoughts and comments are really valuable, making this repo a fantastic resource for everyone. I'll be putting everything on this github repo.
 
 <h3>Follow me on :</h3>  
 
@@ -45,6 +59,7 @@ Comments, suggestions, and corrections are welcome.
 |15    | BiGAN | [BiGAN Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/BiGAN-2017.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_bigan-paper-summary-activity-6888100102385364992-0Ani) | [Official Implementation](https://github.com/jeffdonahue/bigan) |
 |16    | Face Completion GAN (CVPR 2017) | [Face Completion GAN Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/GenerativeFaceCompletion-2017.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_summary-of-generative-face-completion-gan-activity-6888459784941641728-Lymj) | -- |
 |17   | 3D-GAN (NIPS 2016) | [3D-GAN Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/3DGAN-2016.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_3d-gan-one-page-summary-activity-6888849471942344704-mtj3) | [PyTorch Implementation](https://github.com/black0017/3D-GAN-pytorch)|
+|18   | WassersteinGAN (ICLR 2017) | [WassersteinGAN Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/WassersteinGAN-2017.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_wasserstein-gan-paper-summary-activity-6889250173403459587-MoU9) | [PyTorch Implementation](https://github.com/martinarjovsky/WassersteinGAN) |
 
 
 Thanks for Reading🎉🎉🎉
