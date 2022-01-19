@@ -32,14 +32,14 @@ Each day I will go through popular computer vision papers, mostly with GANs. I w
 
 I hope my learning journey will be helpful for anyone who is a interested in knowing computer vision concepts or reading research paper. Your thoughts and comments are really valuable, making this repo a fantastic resource for everyone. I'll be putting everything on this github repo.
 
-Comments, suggestions, and corrections are appreciated. 
+Comments, suggestions, and corrections are welcome. 
 
 <h3>Follow me on :</h3>  
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susan-gautam/)
 
 
-Your love and support :support: are much welcomed in order to make this even more beneficial to everybody. 
+Your love and support  are highly appreciated in order to make this even more beneficial to everybody. 
 
 <hr>
 
