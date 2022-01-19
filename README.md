@@ -39,7 +39,7 @@ Comments, suggestions, and corrections are welcome.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susan-gautam/)
 
 
-Your love and support  are highly appreciated in order to make this even more beneficial to everybody. 
+Your love and support are greatly appreciated, and it gives me more motivation to make this even better for everyone.
 
 <hr>
 
