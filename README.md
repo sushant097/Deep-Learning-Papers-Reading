@@ -32,15 +32,19 @@ Each day I will go through popular computer vision papers, mostly with GANs. I w
 
 I hope my learning journey will be helpful for anyone who is a interested in knowing computer vision concepts or reading research paper. Your thoughts and comments are really valuable, making this repo a fantastic resource for everyone. I'll be putting everything on this github repo.
 
+Comments, suggestions, and corrections are appreciated. 
+
 <h3>Follow me on :</h3>  
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susan-gautam/)
 
-Your love and support are much welcomed in order to make this even more beneficial to everybody. 
 
-Comments, suggestions, and corrections are welcome. 
+Your love and support :support: are much welcomed in order to make this even more beneficial to everybody. 
 
-| Days | Paper Name | Annotated Paper Link| Post Link | Code(Others)
+<hr>
+
+
+| Days | Paper Name | Annotated Paper Link| Post Link | Implementation Code
 | :------------ |:---------------------:| :----------------:| --------: | -------:|
 | 1      | Pix2Pix | [Pix2Pix Paper Annotated](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/pix2pix-2018.pdf)|[LinKedIn](https://www.linkedin.com/posts/susan-gautam_learning-computervision-deeplearning-activity-6883067700529238016-iSLy) |[PyTorch Code](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) |
 | 2   | CycleGAN | [CycleGAN Paper Annotated](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/cycleGAN-2017.pdf) -- [Scratch Implementation-PyTorch](https://github.com/sushant097/Deep-Learning-Paper-Scratch-Implementation/tree/master/GANs/cycleGan) | [LinKedIn](https://www.linkedin.com/posts/susan-gautam_comment-cyclegan-github-activity-6883419831262158848-XCJ2) | [PyTorch Code](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) |
@@ -60,6 +64,7 @@ Comments, suggestions, and corrections are welcome.
 |16    | Face Completion GAN (CVPR 2017) | [Face Completion GAN Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/GenerativeFaceCompletion-2017.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_summary-of-generative-face-completion-gan-activity-6888459784941641728-Lymj) | -- |
 |17   | 3D-GAN (NIPS 2016) | [3D-GAN Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/3DGAN-2016.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_3d-gan-one-page-summary-activity-6888849471942344704-mtj3) | [PyTorch Implementation](https://github.com/black0017/3D-GAN-pytorch)|
 |18   | WassersteinGAN (ICLR 2017) | [WassersteinGAN Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/WassersteinGAN-2017.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_wasserstein-gan-paper-summary-activity-6889250173403459587-MoU9) | [PyTorch Implementation](https://github.com/martinarjovsky/WassersteinGAN) |
+|19   | WGAN-GP (NIPS 2017) | [WGAN-GP Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/WGAN-GP-2017.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_wgan-gp-summary-activity-6889593327788941312-Xijy) | [Tensorflow Official Implementation](https://github.com/igul222/improved_wgan_training) |
 
 
 Thanks for Reading🎉🎉🎉
