@@ -65,6 +65,7 @@ Your love and support are greatly appreciated, and it gives me more motivation t
 |17   | 3D-GAN (NIPS 2016) | [3D-GAN Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/3DGAN-2016.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_3d-gan-one-page-summary-activity-6888849471942344704-mtj3) | [PyTorch Implementation](https://github.com/black0017/3D-GAN-pytorch)|
 |18   | WassersteinGAN (ICLR 2017) | [WassersteinGAN Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/WassersteinGAN-2017.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_wasserstein-gan-paper-summary-activity-6889250173403459587-MoU9) | [PyTorch Implementation](https://github.com/martinarjovsky/WassersteinGAN) |
 |19   | WGAN-GP (NIPS 2017) | [WGAN-GP Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/WGAN-GP-2017.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_wgan-gp-summary-activity-6889593327788941312-Xijy) | [Tensorflow Official Implementation](https://github.com/igul222/improved_wgan_training) |
+|19   | StarGAN (CVPR 2018) | [StarGAN Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/StarGAN-2018.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_stargan-research-paper-summary-activity-6889954650544578560-tBvL) | [PyTorch Official Implementation](https://github.com/yunjey/stargan) |
 
 
 Thanks for Reading🎉🎉🎉
