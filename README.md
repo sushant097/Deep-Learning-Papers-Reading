@@ -67,6 +67,7 @@ Your love and support are greatly appreciated, and it gives me more motivation t
 |19   | WGAN-GP (NIPS 2017) | [WGAN-GP Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/WGAN-GP-2017.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_wgan-gp-summary-activity-6889593327788941312-Xijy) | [Tensorflow Official Implementation](https://github.com/igul222/improved_wgan_training) |
 |20   | StarGAN (CVPR 2018) | [StarGAN Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/StarGAN-2018.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_stargan-research-paper-summary-activity-6889954650544578560-tBvL) | [PyTorch Official Implementation](https://github.com/yunjey/stargan) |
 |21   | FashionGAN (ICCV-2017) | [FashionGAN Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/FashionGAN-2017.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_fashiongan-paper-summary-activity-6890297345217581056-Oo5N) | [PyTorch Official Implementation](https://github.com/zhusz/ICCV17-fashionGAN) |
+|22   | DiscoGAN (ICML-2017) | [DiscoGAN Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/DiscoGAN-2017.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_discogan-paper-summary-activity-6890676687835688960--KSB) | [PyTorch Official Implementation](https://github.com/SKTBrain/DiscoGAN) |
 
 Thanks for Reading🎉🎉🎉
 
