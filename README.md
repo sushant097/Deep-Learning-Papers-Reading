@@ -68,6 +68,8 @@ Your love and support are greatly appreciated, and it gives me more motivation t
 |20   | StarGAN (CVPR 2018) | [StarGAN Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/StarGAN-2018.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_stargan-research-paper-summary-activity-6889954650544578560-tBvL) | [PyTorch Official Implementation](https://github.com/yunjey/stargan) |
 |21   | FashionGAN (ICCV-2017) | [FashionGAN Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/FashionGAN-2017.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_fashiongan-paper-summary-activity-6890297345217581056-Oo5N) | [PyTorch Official Implementation](https://github.com/zhusz/ICCV17-fashionGAN) |
 |22   | DiscoGAN (ICML-2017) | [DiscoGAN Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/DiscoGAN-2017.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_discogan-paper-summary-activity-6890676687835688960--KSB) | [PyTorch Official Implementation](https://github.com/SKTBrain/DiscoGAN) |
+|23   | LSGAN (ICCV-2017) | [LSGAN Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/LSGAN-2017.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_lsgan-iccv-2017-paper-summary-activity-6891032193997635584-49xR) | -- |
+
 
 Thanks for Reading🎉🎉🎉
 
