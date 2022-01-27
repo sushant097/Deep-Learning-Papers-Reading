@@ -9,7 +9,7 @@ Each day I will go through popular computer vision papers, mostly with GANs. I w
 1. Annotated Paper with a quick summary
 2. Scratch implementation with PyTorch or Tensorflow (if possible). I'll do my best to make it as straightforward and understandable as possible. It's important to note that some of the paper implementation may take a few days.
 3. Some papers go into great detail on  the [![Medium](https://badges.aleen42.com/src/medium.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://susant.medium.com/). If I can manage my time. You may follow me there to make sure you don't miss a new post.
-4. (Future Plan) Short Video-Paper Walkthrough & Implementation [![Medium](https://badges.aleen42.com/src/youtube.svg)]()
+4. (Future Plan) Short Video-Paper Walkthrough & Implementation [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/channel/UCfNPOjJk5Xi886I27hs76NA/videos)
 
 
 ## Where you Post?
