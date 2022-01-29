@@ -43,6 +43,8 @@ Your love and support are greatly appreciated, and it gives me more motivation t
 
 <hr>
 
+PS: If there is any error, Kindly email me **[Sushant Gautam][ sushantgautm@gmail.com ].
+
 
 | Days | Paper Name | Annotated Paper Link| Post Link | Implementation Code
 | :------------ |:---------------------:| :----------------:| --------: | -------:|
@@ -74,7 +76,7 @@ Your love and support are greatly appreciated, and it gives me more motivation t
 |26   | Sketch Your Own GAN (ICCV-2021) | [Annotated SketchGAN Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/SketchGAN-2021.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_sketch-your-own-gan-summary-iccv-2021-paper-activity-6892091059309039616-QB-u) | [Official PyTorch Implementation](https://github.com/peterwang512/GANSketching) |
 |27   | DatasetGAN (CVPR-2021) | [Annotated DatasetGAN Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/DatasetGAN-2021.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_datasetgan-summary-cvpr-2021-activity-6892478455586402304-bVNQ) | [Official PyTorch Implementation](https://github.com/nv-tlabs/datasetGAN_release/) |
 |28   | GauGAN (CVPR-2019) | [Annotated GauGAN Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/GauGAN-2019.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_gaugan-paper-summary-cvpr-2019-activity-6892865385801097216-NcOU) | [Official PyTorch Implementation](https://github.com/nvlabs/spade/) |
-
+|29   | GFP-GAN (CVPR-2021) | [Annotated GFP-GAN Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/GFP-GAN-2021.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_gfp-gan-summary-cvpr-2021-activity-6893217796176662528-Xd__) | [Official PyTorch Implementation](https://github.com/TencentARC/GFPGAN) |
 
 Thanks for Reading🎉🎉🎉
 
