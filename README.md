@@ -1,5 +1,11 @@
 # 30 Days Computer Vision Paper Reading
-
+![GitHub stars](https://img.shields.io/github/stars/sushant097/30-Days-GANs-Paper-Reading) 
+![GitHub forks](https://img.shields.io/github/stars/sushant097/30-Days-GANs-Paper-Reading)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/sushant097/30-Days-GANs-Paper-Reading//commits/master)
+[![Issues](https://img.shields.io/github/issues/sushant097/30-Days-GANs-Paper-Reading)](https://github.com/sushant097/30-Days-GANs-Paper-Reading//commits/master)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://github.com/sushant097/30-Days-GANs-Paper-Reading)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/susan-gautam/)
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 On January 1, 2022, I started this challenge. I intend to go through the computer vision and basic GAN papers first, learning the fundamental principles, and then go on to some of the more recent gans and related concepts. I plan to provide an annotation document as well as a synopsis of each article I read and scratch implementation of each paper (if possible). 
 
