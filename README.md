@@ -1,6 +1,6 @@
 # 30 Days Computer Vision Paper Reading
 ![GitHub stars](https://img.shields.io/github/stars/sushant097/30-Days-GANs-Paper-Reading) 
-![GitHub forks](https://img.shields.io/github/stars/sushant097/30-Days-GANs-Paper-Reading)
+![GitHub forks](https://img.shields.io/github/forks/sushant097/30-Days-GANs-Paper-Reading)
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/sushant097/30-Days-GANs-Paper-Reading//commits/master)
 [![Issues](https://img.shields.io/github/issues/sushant097/30-Days-GANs-Paper-Reading)](https://github.com/sushant097/30-Days-GANs-Paper-Reading//commits/master)
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://github.com/sushant097/30-Days-GANs-Paper-Reading)
