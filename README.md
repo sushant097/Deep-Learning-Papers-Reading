@@ -49,7 +49,7 @@ Your love and support are greatly appreciated, and it gives me more motivation t
 
 <hr>
 
-PS: If there is any error, Kindly email me **[Sushant Gautam][ sushantgautm@gmail.com ].
+PS: If there is any error, Kindly email me **[Sushant Gautam][ sushantgautm@gmail.com ]**.
 
 
 | Days | Paper Name | Annotated Paper Link| Post Link | Implementation Code
