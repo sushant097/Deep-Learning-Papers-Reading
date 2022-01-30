@@ -83,6 +83,8 @@ PS: If there is any error, Kindly email me **[Sushant Gautam][ sushantgautm@gmai
 |27   | DatasetGAN (CVPR-2021) | [Annotated DatasetGAN Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/DatasetGAN-2021.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_datasetgan-summary-cvpr-2021-activity-6892478455586402304-bVNQ) | [Official PyTorch Implementation](https://github.com/nv-tlabs/datasetGAN_release/) |
 |28   | GauGAN (CVPR-2019) | [Annotated GauGAN Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/GauGAN-2019.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_gaugan-paper-summary-cvpr-2019-activity-6892865385801097216-NcOU) | [Official PyTorch Implementation](https://github.com/nvlabs/spade/) |
 |29   | GFP-GAN (CVPR-2021) | [Annotated GFP-GAN Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/GFP-GAN-2021.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_gfp-gan-summary-cvpr-2021-activity-6893217796176662528-Xd__) | [Official PyTorch Implementation](https://github.com/TencentARC/GFPGAN) |
+|30   | ReMix (CVPR-2021) | [Annotated ReMix Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/Remix-2021.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_remix-paper-summary-cvpr-2021-activity-6893581964801126400-SWX_) | -- |
+
 
 Thanks for Reading🎉🎉🎉
 
