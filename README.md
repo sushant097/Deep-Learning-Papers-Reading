@@ -32,8 +32,8 @@ Each day I will go through popular computer vision papers, mostly with GANs. I w
 
 <hr>
 
-<!-- 
-## Can I contribute to this list?
+
+<!-- ## Can I contribute to this list?
 * Yes, of course. Kindly email me **[Sushant Gautam][ sushantgautm@gmail.com ]** or send a pull request at [Annoted Research Papers GitHub Repo](https://github.com/sushant097/annotated_research_papers/) for annotated paper and [Deep learning Paper Scratch Implementation](https://github.com/sushant097/Deep-Learning-Paper-Scratch-Implementation/tree/master/) for scratch Implementation of paper. -->
 
 I hope my learning journey will be helpful for anyone who is a interested in knowing computer vision concepts or reading research paper. Your thoughts and comments are really valuable, making this repo a fantastic resource for everyone. I'll be putting everything on this github repo.
@@ -87,6 +87,7 @@ PS: If there is any error, Kindly email me **[Sushant Gautam][ sushantgautm@gmai
 |31   | WGAN & WGANGP Paper Implementation | [WGAN Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/WassersteinGAN-2017.pdf) & [WGAN-GP Annotated Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/WGAN-GP-2017.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_github-sushant09730-days-gans-paper-reading-activity-6893950554993778692-ppE1) | [Simple WGAN Implementation](https://github.com/sushant097/Deep-Learning-Paper-Scratch-Implementation/tree/master/GANs/WGAN) &  [Simple WGANGP Implementation](https://github.com/sushant097/Deep-Learning-Paper-Scratch-Implementation/tree/master/GANs/WGAN-GP) |
 |32   |  (LoGANv2-2019) | [Annotated LoGANv2 Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/LoGAnv2-2019.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_conditional-style-gan-paper-summary-2019-activity-6894289292080885760-p2Ab) | [Tensorflow Implementation](https://github.com/cedricoeldorf/ConditionalStyleGAN) |
 |33  |  (ViT-2021) | [Annotated Vision Transformer Paper](https://github.com/sushant097/annotated_research_papers/blob/master/ComputerVision/ViT-2021.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_vision-transformer-paper-summary-iclr-2021-activity-6894665578028642304-bOS4) | [Official PyTorch Implementation](https://github.com/lucidrains/vit-pytorch)|
+|34  |  (i-GPT ICML-2020) | [Annotated i-GPT  Paper](https://github.com/sushant097/annotated_research_papers/blob/master/ComputerVision/ImageGPT-2020.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_image-gpt-paper-summary-icml-2020-activity-6895010106099011584-sVin) | [Official PyTorch Implementation](https://github.com/openai/image-gpt)|
 
 
 
