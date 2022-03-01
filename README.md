@@ -91,6 +91,7 @@ PS: If there is any error, Kindly email me **[Sushant Gautam][ sushantgautm@gmai
 |-|-|𝐓𝐡𝐞 𝐜𝐨𝐦𝐩𝐢𝐥𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐬𝐮𝐦𝐦𝐚𝐫𝐢𝐳𝐞𝐝 𝟑𝟏 𝐩𝐚𝐩𝐞𝐫𝐬 𝐨𝐧 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐯𝐢𝐬𝐢𝐨𝐧 (𝐟𝐫𝐨𝐦 𝐆𝐀𝐍𝐬 𝐭𝐨 𝐕𝐢𝐬𝐢𝐨𝐧 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐞𝐫𝐬):  |[Link](https://www.linkedin.com/feed/update/urn:li:activity:6895394085994143744/) -|
 |35  |  (ConvNeXT-2022) | [Annotated ConvNeXT  Paper](https://github.com/sushant097/annotated_research_papers/blob/master/ComputerVision/ConvNeXt-2022.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_a-convnet-for-the-2020s-convnext-paper-activity-6899015093435166720-JNVh) | [Official PyTorch Implementation](https://github.com/facebookresearch/ConvNeXt)|
 |36  |  (FastGAN- ICLR 2021) | [Annotated FastGAN  Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/FastGAN-2021.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_fastgan-paper-summary-activity-6903727409795796992-_eqD) | [Official PyTorch Implementation](https://github.com/odegeasslbc/FastGAN-pytorch)|
+|37  |  (One-Shot GAN - CVPR 2021) | [Annotated One-Shot GAN  Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/One-ShotGAN-CVPR-2021.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_one-shot-gan-paper-cvpr-2021-summary-activity-6904442583758589952-SYb8) | -|
 
 Thanks for Reading🎉🎉🎉
 
