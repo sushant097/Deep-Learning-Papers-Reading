@@ -88,10 +88,16 @@ PS: If there is any error, Kindly email me **[Sushant Gautam][ sushantgautm@gmai
 |32   |  (LoGANv2-2019) | [Annotated LoGANv2 Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/LoGAnv2-2019.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_conditional-style-gan-paper-summary-2019-activity-6894289292080885760-p2Ab) | [Tensorflow Implementation](https://github.com/cedricoeldorf/ConditionalStyleGAN) |
 |33  |  (ViT-2021) | [Annotated Vision Transformer Paper](https://github.com/sushant097/annotated_research_papers/blob/master/ComputerVision/ViT-2021.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_vision-transformer-paper-summary-iclr-2021-activity-6894665578028642304-bOS4) | [Official PyTorch Implementation](https://github.com/lucidrains/vit-pytorch)|
 |34  |  (i-GPT ICML-2020) | [Annotated i-GPT  Paper](https://github.com/sushant097/annotated_research_papers/blob/master/ComputerVision/ImageGPT-2020.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_image-gpt-paper-summary-icml-2020-activity-6895010106099011584-sVin) | [Official PyTorch Implementation](https://github.com/openai/image-gpt)|
-|-|-|𝐓𝐡𝐞 𝐜𝐨𝐦𝐩𝐢𝐥𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐬𝐮𝐦𝐦𝐚𝐫𝐢𝐳𝐞𝐝 𝟑𝟏 𝐩𝐚𝐩𝐞𝐫𝐬 𝐨𝐧 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐯𝐢𝐬𝐢𝐨𝐧 (𝐟𝐫𝐨𝐦 𝐆𝐀𝐍𝐬 𝐭𝐨 𝐕𝐢𝐬𝐢𝐨𝐧 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐞𝐫𝐬):  |[Link](https://www.linkedin.com/feed/update/urn:li:activity:6895394085994143744/) -|
+|-|-|𝐓𝐡𝐞 𝐜𝐨𝐦𝐩𝐢𝐥𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐬𝐮𝐦𝐦𝐚𝐫𝐢𝐳𝐞𝐝 𝟑𝟏 𝐩𝐚𝐩𝐞𝐫𝐬 𝐨𝐧 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐯𝐢𝐬𝐢𝐨𝐧 (𝐟𝐫𝐨𝐦 𝐆𝐀𝐍𝐬 𝐭𝐨 𝐕𝐢𝐬𝐢𝐨𝐧 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐞𝐫𝐬):  |[Link](https://www.linkedin.com/feed/update/urn:li:activity:6895394085994143744/) | - |
+
+I sucessfully completed my 30 Day paper reading challenge. Now onwards I will add annotated papers within a few days. Happy Learning. :smile:
+
+| S.N. | Paper Name | Annotated Paper Link| Post Link | Implementation Code
+| :------------ |:---------------------:| :----------------:| --------: | -------:|
 |35  |  (ConvNeXT-2022) | [Annotated ConvNeXT  Paper](https://github.com/sushant097/annotated_research_papers/blob/master/ComputerVision/ConvNeXt-2022.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_a-convnet-for-the-2020s-convnext-paper-activity-6899015093435166720-JNVh) | [Official PyTorch Implementation](https://github.com/facebookresearch/ConvNeXt)|
 |36  |  (FastGAN- ICLR 2021) | [Annotated FastGAN  Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/FastGAN-2021.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_fastgan-paper-summary-activity-6903727409795796992-_eqD) | [Official PyTorch Implementation](https://github.com/odegeasslbc/FastGAN-pytorch)|
 |37  |  (One-Shot GAN - CVPR 2021) | [Annotated One-Shot GAN  Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/One-ShotGAN-CVPR-2021.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_one-shot-gan-paper-cvpr-2021-summary-activity-6904442583758589952-SYb8) | -|
+|37  |  (FewShot Image2ImageTranlation - ICCV 2019) | [Annotated FUNIT GAN  Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/FewShotImage2ImageTranlation-ICCV-2019.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_few-shot-unsupervised-image2image-translation-activity-6904767451494514688-h0As) |  [Official PyTorch Implementation](https://github.com/NVlabs/FUNIT) |
 
 Thanks for Reading🎉🎉🎉
 
