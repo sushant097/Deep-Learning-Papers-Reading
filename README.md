@@ -90,7 +90,7 @@ PS: If there is any error, Kindly email me **[Sushant Gautam][ sushantgautm@gmai
 |34  |  (i-GPT ICML-2020) | [Annotated i-GPT  Paper](https://github.com/sushant097/annotated_research_papers/blob/master/ComputerVision/ImageGPT-2020.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_image-gpt-paper-summary-icml-2020-activity-6895010106099011584-sVin) | [Official PyTorch Implementation](https://github.com/openai/image-gpt)|
 |-|-|𝐓𝐡𝐞 𝐜𝐨𝐦𝐩𝐢𝐥𝐚𝐭𝐢𝐨𝐧 𝐨𝐟 𝐬𝐮𝐦𝐦𝐚𝐫𝐢𝐳𝐞𝐝 𝟑𝟏 𝐩𝐚𝐩𝐞𝐫𝐬 𝐨𝐧 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐯𝐢𝐬𝐢𝐨𝐧 (𝐟𝐫𝐨𝐦 𝐆𝐀𝐍𝐬 𝐭𝐨 𝐕𝐢𝐬𝐢𝐨𝐧 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐞𝐫𝐬):  |[Link](https://www.linkedin.com/feed/update/urn:li:activity:6895394085994143744/) | - |
 
-I sucessfully completed my 30 Day paper reading challenge. Now onwards I will add annotated papers within a few days. Happy Learning. :smile:
+I successfully completed my 30 day paper reading challenge. From now onwards, I will add annotated papers within a few days. Happy Learning. :smile:
 
 | S.N. | Paper Name | Annotated Paper Link| Post Link | Implementation Code
 | :------------ |:---------------------:| :----------------:| --------: | -------:|
