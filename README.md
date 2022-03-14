@@ -92,8 +92,8 @@ PS: If there is any error, Kindly email me **[Sushant Gautam][ sushantgautm@gmai
 
 I successfully completed my 30 day paper reading challenge. From now onwards, I will add annotated papers within a few days. Happy Learning. :smile:
 
-| S.N. | Paper Name | Annotated Paper Link| Post Link | Implementation Code
-| :------------ |:---------------------:| :----------------:| --------: | -------:|
+| S.N. | Paper Name | Annotated Paper Link| Post Link | Implementation Code|  Collab Notebook ![Collab Code](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+| :------------ |:---------------------:| :----------------:| --------: | -------:| -------:|
 |35  |  (ConvNeXT-2022) | [Annotated ConvNeXT  Paper](https://github.com/sushant097/annotated_research_papers/blob/master/ComputerVision/ConvNeXt-2022.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_a-convnet-for-the-2020s-convnext-paper-activity-6899015093435166720-JNVh) | [Official PyTorch Implementation](https://github.com/facebookresearch/ConvNeXt)|
 |36  |  (FastGAN- ICLR 2021) | [Annotated FastGAN  Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/FastGAN-2021.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_fastgan-paper-summary-activity-6903727409795796992-_eqD) | [Official PyTorch Implementation](https://github.com/odegeasslbc/FastGAN-pytorch)|
 |37  |  (One-Shot GAN - CVPR 2021) | [Annotated One-Shot GAN  Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/One-ShotGAN-CVPR-2021.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_one-shot-gan-paper-cvpr-2021-summary-activity-6904442583758589952-SYb8) | -|
