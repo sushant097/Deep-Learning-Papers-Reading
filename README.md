@@ -1,4 +1,4 @@
-# 30 Days Computer Vision Paper Reading
+# Deep Learning Paper Reading - Annotation, Summary & Scratch Implementation
 ![GitHub stars](https://img.shields.io/github/stars/sushant097/30-Days-GANs-Paper-Reading) 
 ![GitHub forks](https://img.shields.io/github/forks/sushant097/30-Days-GANs-Paper-Reading)
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/sushant097/30-Days-GANs-Paper-Reading//commits/master)
