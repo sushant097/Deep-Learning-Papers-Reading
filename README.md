@@ -7,6 +7,10 @@
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/susan-gautam/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
+<h3>Follow me on :</h3>  
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susan-gautam/)
+
 On January 1, 2022, I started this challenge. I intend to go through the computer vision and basic GAN papers first, learning the fundamental principles, and then go on to some of the more recent gans and related concepts. I plan to provide an annotation document as well as a synopsis of each article I read and scratch implementation of each paper (if possible). 
 
 
@@ -40,9 +44,6 @@ I hope my learning journey will be helpful for anyone who is a interested in kno
 
 Comments, suggestions, and corrections are welcome. 
 
-<h3>Follow me on :</h3>  
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susan-gautam/)
 
 
 Your love and support are greatly appreciated, and it gives me more motivation to make this even better for everyone.
@@ -101,9 +102,9 @@ I successfully completed my 30 day paper reading challenge. From now onwards, I 
 
 
 ## Object Detection Series:
-| S.N. | Paper Name | Annotated Paper Link| Post Link | Implementation Code|  Collab Notebook ![Collab Code](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+| S.N. | Paper Name | Annotated Paper Link| Post Link | Implementation Code|  Extra Resource 
 | :------------ |:---------------------:| :----------------:| --------: | -------:| -------:|
-|36  |  Yolov1-2015 | [Annotated Yolov1  Paper](https://github.com/sushant097/annotated_research_papers/blob/master/ComputerVision/Yolov1-2016.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_yolov1-2016-annotated-paper-and-summary-in-activity-6929243398876909568-owaN?utm_source=linkedin_share&utm_medium=member_desktop_web) | - |
+|36  |  Yolov1-2015 | [Annotated Yolov1  Paper](https://github.com/sushant097/annotated_research_papers/blob/master/ComputerVision/Yolov1-2016.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_yolov1-2016-annotated-paper-and-summary-in-activity-6929243398876909568-owaN?utm_source=linkedin_share&utm_medium=member_desktop_web) | - | [CVPR Paper Presentation ![Youtube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=NM6lrxy0bxs)|
 
 
 Thanks for Reading🎉🎉🎉
