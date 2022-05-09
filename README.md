@@ -99,5 +99,12 @@ I successfully completed my 30 day paper reading challenge. From now onwards, I 
 |37  |  (One-Shot GAN - CVPR 2021) | [Annotated One-Shot GAN  Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/One-ShotGAN-CVPR-2021.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_one-shot-gan-paper-cvpr-2021-summary-activity-6904442583758589952-SYb8) | -|
 |37  |  (FewShot Image2ImageTranlation - ICCV 2019) | [Annotated FUNIT GAN  Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/FewShotImage2ImageTranlation-ICCV-2019.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_few-shot-unsupervised-image2image-translation-activity-6904767451494514688-h0As) |  [Official PyTorch Implementation](https://github.com/NVlabs/FUNIT) |
 
+
+## Object Detection Series:
+| S.N. | Paper Name | Annotated Paper Link| Post Link | Implementation Code|  Collab Notebook ![Collab Code](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+| :------------ |:---------------------:| :----------------:| --------: | -------:| -------:|
+|36  |  Yolov1-2015 | [Annotated Yolov1  Paper](https://github.com/sushant097/annotated_research_papers/blob/master/ComputerVision/Yolov1-2016.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_yolov1-2016-annotated-paper-and-summary-in-activity-6929243398876909568-owaN?utm_source=linkedin_share&utm_medium=member_desktop_web) | - |
+
+
 Thanks for Reading🎉🎉🎉
 
