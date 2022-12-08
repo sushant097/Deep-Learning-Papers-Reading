@@ -32,7 +32,7 @@ Each day I will go through popular computer vision papers, mostly with GANs. I w
 * No, I don't. I simply look for one that interests me and read it the same day. If you come across other intriguing paper, you can suggest it to me.
 
 
-**Note:** "Interesting" indicates it should not be a previously read papers (see list below) and must have an unique idea. Citations, the conference at which it is given, and, most crucially, the new contribution it makes may all be used to weed out papers. Sorry, but that's how I narrowed down the papers to read. 
+<!-- **Note:** "Interesting" indicates it should not be a previously read papers (see list below) and must have an unique idea. Citations, the conference at which it is given, and, most crucially, the new contribution it makes may all be used to weed out papers. Sorry, but that's how I narrowed down the papers to read. -->
 
 <hr>
 
