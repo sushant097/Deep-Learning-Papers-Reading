@@ -32,25 +32,19 @@ Each day I will go through popular computer vision papers, mostly with GANs. I w
 * No, I don't. I simply look for one that interests me and read it the same day. If you come across other intriguing paper, you can suggest it to me.
 
 
-<!-- **Note:** "Interesting" indicates it should not be a previously read papers (see list below) and must have an unique idea. Citations, the conference at which it is given, and, most crucially, the new contribution it makes may all be used to weed out papers. Sorry, but that's how I narrowed down the papers to read. -->
-
 <hr>
 
 
-<!-- ## Can I contribute to this list?
-* Yes, of course. Kindly email me **[Sushant Gautam][ sushantgautm@gmail.com ]** or send a pull request at [Annoted Research Papers GitHub Repo](https://github.com/sushant097/annotated_research_papers/) for annotated paper and [Deep learning Paper Scratch Implementation](https://github.com/sushant097/Deep-Learning-Paper-Scratch-Implementation/tree/master/) for scratch Implementation of paper. -->
-
-I hope my learning journey will be helpful for anyone who is a interested in knowing computer vision concepts or reading research paper. Your thoughts and comments are really valuable, making this repo a fantastic resource for everyone. I'll be putting everything on this github repo.
+## Can I contribute to this list?
+* Yes, of course. Kindly email me **[Sushant Gautam][ sushantgautm@gmail.com ]** or send a pull request at [Annoted Research Papers GitHub Repo](https://github.com/sushant097/annotated_research_papers/) for annotated paper and [Deep learning Paper Scratch Implementation](https://github.com/sushant097/Deep-Learning-Paper-Scratch-Implementation/tree/master/) for scratch Implementation of paper. 
 
 Comments, suggestions, and corrections are welcome. 
 
 
 
-Your love and support are greatly appreciated, and it gives me more motivation to make this even better for everyone.
-
 <hr>
 
-PS: If there is any error, Kindly email me **[Sushant Gautam][ sushantgautm@gmail.com ]**.
+PS: If there is any error, Kindly email me.
 
 
 | Day | Paper Name | Annotated Paper Link| Post Link | Implementation Code | Collab Notebook ![Collab Code](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
