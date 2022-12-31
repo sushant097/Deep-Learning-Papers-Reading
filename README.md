@@ -95,11 +95,11 @@ I successfully completed my 30 day paper reading challenge. From now onwards, I 
 |37  |  (FewShot Image2ImageTranlation - ICCV 2019) | [Annotated FUNIT GAN  Paper](https://github.com/sushant097/annotated_research_papers/blob/master/GANs/FewShotImage2ImageTranlation-ICCV-2019.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_few-shot-unsupervised-image2image-translation-activity-6904767451494514688-h0As) |  [Official PyTorch Implementation](https://github.com/NVlabs/FUNIT) |
 
 
-## Object Detection Series:
+## Object Detection & Segmentation Series:
 | S.N. | Paper Name | Annotated Paper Link| Post Link | Implementation Code|  Extra Resource 
 | :------------ |:---------------------:| :----------------:| --------: | -------:| -------: |
 |38  |  Yolov1-2015 | [Annotated Yolov1  Paper](https://github.com/sushant097/annotated_research_papers/blob/master/ComputerVision/Yolov1-2016.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_yolov1-2016-annotated-paper-and-summary-in-activity-6929243398876909568-owaN?utm_source=linkedin_share&utm_medium=member_desktop_web) | - | [CVPR Paper Presentation ![Youtube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=NM6lrxy0bxs)|
-|39  |  Mask-RCNN-2018 | [Annotated Mask-RCNN  Paper](https://github.com/sushant097/annotated_research_papers/blob/master/ComputerVision/MaskRCNN-2018.pdf) | [LinkedIn]() | [Mask-RCNN official Implementation ](https://github.com/multimodallearning/pytorch-mask-rcnn)| [ICCV Paper Presentation ![Youtube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=g7z4mkfRjI4&ab_channel=ComputerVisionFoundationVideos) [![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ](https://colab.research.google.com/github/tensorflow/tpu/blob/master/models/official/mask_rcnn/mask_rcnn_demo.ipynb) |
+|39  |  Mask-RCNN-2017 | [Annotated Mask-RCNN  Paper](https://github.com/sushant097/annotated_research_papers/blob/master/ComputerVision/MaskRCNN-2018.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_mask-rcnn-paper-summary-activity-7014970436694286336-QzKx?utm_source=share&utm_medium=member_desktop) | [Mask-RCNN official Implementation ](https://github.com/multimodallearning/pytorch-mask-rcnn)| [ICCV Paper Presentation ![Youtube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=g7z4mkfRjI4&ab_channel=ComputerVisionFoundationVideos) [![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ](https://colab.research.google.com/github/tensorflow/tpu/blob/master/models/official/mask_rcnn/mask_rcnn_demo.ipynb) |
 
 
 Thanks for Reading🎉🎉🎉
