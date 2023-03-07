@@ -106,6 +106,6 @@ I successfully completed my 30 day paper reading challenge. From now onwards, I 
 ## Diffusion Model Series:
 | S.N. | Paper Name | Annotated Paper Link| Post Link | Implementation Code|  Extra Resource 
 | :------------ |:---------------------:| :----------------:| --------: | -------:| -------: |
-|41  |  DDPM-2020 | [Annotated Yolov1  Paper](https://github.com/sushant097/annotated_research_papers/blob/master/DiffusionModels/DDPM-2020.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_ddpm-paper-summary-activity-7038540689449639936-_OIh?utm_source=share&utm_medium=member_desktop) |-   | -  |
+|41  |  DDPM-2020 | [Annotated DDPM  Paper](https://github.com/sushant097/annotated_research_papers/blob/master/DiffusionModels/DDPM-2020.pdf) | [LinkedIn](https://www.linkedin.com/posts/susan-gautam_ddpm-paper-summary-activity-7038540689449639936-_OIh?utm_source=share&utm_medium=member_desktop) |-   | -  |
 Thanks for Reading🎉🎉🎉
 
